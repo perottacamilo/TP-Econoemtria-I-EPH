@@ -6,6 +6,8 @@ La Encuesta Permanente de Hogares es una encuesta que realiza el INDEC trimestra
 ## Objetivos del trabajo
 El trabajo  consiste en utilizar fundamentos estadisticos y econometricos para el analisis de interes, en este caso el salario, realizando estimaciones, y proyecciones utilizando la base de microdatos del cuarto trimestre de 2025
 
+## Herramientas
+
 **Lenguaje:** RStudio
 
 **Base de datos:** Microdatos EPH individual.
